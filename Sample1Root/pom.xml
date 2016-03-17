@@ -6,5 +6,6 @@
   <packaging>pom</packaging>
   <modules>
   	<module>Sample1Domain</module>
+  	<module>Sample1Web</module>
   </modules>
 </project>
